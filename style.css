@@ -101,6 +101,7 @@ body {
 	line-height: 19px;
 	position: absolute;
 	margin-left: 20px;
+	padding-left: 4px;
 }
 .forgetmenot {
 	float: left;
@@ -155,4 +156,7 @@ body {
 	font-size: 13px;
 	padding: 0 24px 0;
 	line-height: 1.5;
+}
+.input #checkbox [type="checkbox"] {
+	border: pink;
 }
