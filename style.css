@@ -192,4 +192,5 @@ input[type=checkbox]:checked:before {
 }
 @font-face {
     font-family:"dashicons";
-    src: url(/fonts/dashicons.ttf)
+    src: url(fonts/dashicons.ttf)
+}
